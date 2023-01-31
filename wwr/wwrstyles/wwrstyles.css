@@ -1,12 +1,10 @@
-div {
+#content {
     max-width: 1600px;
-}
-content {
-    margin: 0 auto;
+    margin: 0 auto; 
 }
 nav a {
     text-decoration: none;
-    text-align:center center;
+    text-align:center;
     color: black
 }
 #hero-msg h1 {
@@ -73,7 +71,9 @@ h4 {
     color:black
 }
 footer a{
+    text-decoration: none;
     color:black
+    
 }
 footer a:hover{
     color:black
