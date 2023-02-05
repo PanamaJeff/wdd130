@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Rock+Salt&display=swap');
+
 #content {
     max-width: 1600px;
     margin: 0 auto; 
 }
 nav a {
+    padding: 35px;
     text-decoration: none;
     text-align:center;
     color: black
@@ -23,7 +26,11 @@ main section {
     height: 725px;
 }
 body {
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 22px;
     background-color: #396E94;
+    margin: 0;
+    padding: 0;
 }
 header {
     background-color: #9AD4D6;
@@ -33,10 +40,20 @@ nav a:hover {
     color: black
 }
 .book {
+    border-radius: 5px;
+    margin-top: 50px;
+    padding: 15px 30px;
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 18px;
     background-color: #EFEFEF;
     color:black
 }
 .join{
+    border-radius: 5px;
+    margin-top: 50px;
+    padding: 15px 30px;
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 18px;
     background-color: #396E94;
     color:black
 }
@@ -48,14 +65,21 @@ nav a:hover {
     background-color: #396E94;
 }
 .msg {
+    padding: 35px;
+    line-height: 1.5em;
     background-color: #EFEFEF;
 }
 footer {
+    padding: 25px 50px;
     background-color: #9AD4D6;
     color:black
 }
 .home-title {
+    margin-top: 10px;
+    font-family: 'Rock Salt', 'Robot', 'sans-serif';
+    font-size: 2em;
     color: black
+    
 }
 h4 {
     color:black
@@ -68,9 +92,14 @@ h4 {
     color:black
 }
 .msg p {
+    padding-bottom: 15px;
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: .8em;
     color:black
+    
 }
 footer a{
+    margin-top: 200px;
     text-decoration: none;
     color:black
     
@@ -83,6 +112,7 @@ footer a:hover{
 }
 .icon {
     width: 80px;
+    padding-top: 10px;
 }
 #hero-img {
     width: 100%;
@@ -92,4 +122,28 @@ footer p{
 }
 footer p a:hover{
     text-decoration: underline;
+}
+h2 {
+    margin: 0;
+}
+#logo-link{
+    padding-top: 5px;
+}
+footer.social img {
+    padding-top: 15px;
+}
+.rivers-card {
+    margin: 200px 0;
+}
+.camping-card {
+    margin: 200px 0;
+}
+.rapids-card { 
+    margin: 200px 0;
+}
+.card-img{
+    border-radius: 10px black;
+}
+.main section img{
+    box-sizing: border-box;
 }
