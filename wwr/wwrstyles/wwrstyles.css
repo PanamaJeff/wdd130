@@ -142,8 +142,7 @@ footer.social img {
     margin: 200px 0;
 }
 .card-img{
-    border-radius: 10px ;
-    color: black;
+    border: 10px solid #9AD4D6;
 }
 .main section img{
     box-sizing: border-box;
