@@ -76,7 +76,7 @@ nav a:hover {
 #background {
     background-color: #396E94;
     grid-column: 1/11;
-    grid-row: 4-9;
+    grid-row: 4/9;
 }
 .msg {
     padding: 35px;
