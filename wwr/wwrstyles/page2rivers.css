@@ -1,79 +1,81 @@
 /* Set default font family and size */
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
-  }
-  
-  /* Set font families for different heading levels */
-  h1 {
-    font-family: 'Trebuchet MS', Arial, sans-serif;
-  }
-  
-  h2 {
-    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
-  }
-  
-  h3 {
-    font-family: 'Verdana', Geneva, sans-serif;
-  }
-  
-  /* Style links */
-  a {
-    color: #007bff;
-    text-decoration: none;
-  }
-  
-  a:hover {
-    color: #0056b3;
-    text-decoration: underline;
-  }
-  
-  /* Set background and text colors */
-  body {
-    background-color: #f2f2f2;
-    color: #333;
-  }
-  
-  /* Style location sections */
-  .location {
-    padding: 30px;
-    margin-bottom: 30px;
-    background-color: #fff;
-    border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  }
-  
-  /* Style images in location sections */
-  .location img {
-    width: 100%;
-    margin-bottom: 20px;
-    border-radius: 5px;
-  }
-  
-  /* Style headings in location sections */
-  .location h3 {
-    margin-top: 0;
-    font-size: 24px;
-    font-weight: bold;
-    color: #007bff;
-  }
-  
-  /* Style paragraphs in location sections */
-  .location p {
-    font-size: 18px;
-    line-height: 1.5;
-  }
-  
-  /* Style links in location sections */
-  .location a {
-    color: #007bff;
-    text-decoration: none;
-  }
-  
-  .location a:hover {
-    color: #0056b3;
-    text-decoration: underline;
-  }
-  footer.social img {
-    padding-top: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+/* Set font families for different heading levels */
+h1 {
+  font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+h2 {
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+
+h3 {
+  font-family: 'Verdana', Geneva, sans-serif;
+}
+
+/* Style links */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+/* Set background and text colors */
+body {
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+/* Style location sections */
+.location {
+  padding: 30px;
+  margin-bottom: 30px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Style images in location sections */
+.location img {
+  width: 100%;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+/* Style headings in location sections */
+.location h3 {
+  margin-top: 0;
+  font-size: 24px;
+  font-weight: bold;
+  color: #007bff;
+}
+
+/* Style paragraphs in location sections */
+.location p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+/* Style links in location sections */
+.location a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.location a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+/* Style social media icons in footer */
+footer.social img {
+  padding-top: 15px;
 }
