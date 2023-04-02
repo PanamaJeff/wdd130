@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #FF5733;
     color: #fff;
     display: flex;
     justify-content: space-between;
@@ -92,7 +92,7 @@ img {
     padding: 20px;
     border-radius: 10px;
     margin-top: 20px;
-}
+  }
 .button:hover {
     background-color: #ccc;
     color: #333;

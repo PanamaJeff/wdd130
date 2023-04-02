@@ -81,7 +81,7 @@ li {
 }
 
 #call-to-action {
-  background-color: #1F1F1F;
+  background-color: #2E7D32;
   color: #fff;
   padding: 40px;
   text-align: center;
@@ -89,7 +89,7 @@ li {
 
 .button {
   display: inline-block;
-  background-color: #FF5733;
+  background-color: #333;
   color: #fff;
   text-decoration: none;
   font-size: 24px;

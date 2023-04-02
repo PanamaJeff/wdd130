@@ -89,14 +89,14 @@ li {
 }
 
 .button {
-    display: inline-block;
-    background-color: #FF5733;
-    color: #fff;
-    text-decoration: none;
-    font-size: 24px;
-    padding: 20px;
-    border-radius: 10px;
-    margin-top: 20px;
+  display: inline-block;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  font-size: 24px;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
 }
 
 .button:hover {
