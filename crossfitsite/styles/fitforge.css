@@ -2,7 +2,7 @@
 
 body {
   background-color: #f2f2f2;
-  font-family: Lato, Open Sans, Roboto ;
+  font-family: Open Sans, Roboto, sans-serif;
   color: #333;
   line-height: 1.5;
   margin: 0;
@@ -15,6 +15,10 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 20px;
+}
+
+h1, h2, h3 {
+  font-family: Lato, sans-serif;
 }
 
 h1 {
@@ -85,7 +89,7 @@ li {
 
 .button {
   display: inline-block;
-  background-color: #2E7D32;
+  background-color: #FF5733;
   color: #fff;
   text-decoration: none;
   font-size: 24px;
